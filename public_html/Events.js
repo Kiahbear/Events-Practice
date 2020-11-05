@@ -99,3 +99,7 @@ function colorChange() {
 
     var color = document.body.style.backgroundColor;
 }
+
+/*
+ * something to commit
+ */
